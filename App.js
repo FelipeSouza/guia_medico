@@ -7,9 +7,7 @@ export default function App() {
   return (
     <View >
         <Header/>
-        <Header/>
-        <Header/>
-        <Header/>
+        
     </View>
   );
 };
